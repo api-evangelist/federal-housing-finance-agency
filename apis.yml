@@ -31,6 +31,8 @@ apis:
       FHFA provides housing finance data datasets including house price indexes
       and other housing market statistics.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/fhfa
   - type: Website
     url: https://www.fhfa.gov/
   - type: Documentation
