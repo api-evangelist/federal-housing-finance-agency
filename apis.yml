@@ -30,7 +30,7 @@ tags:
   - Housing
 url: >-
   https://raw.githubusercontent.com/api-evangelist/federal-housing-finance-agency/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: federal-housing-finance-agency:federal-housing-finance-agency
     name: Federal Housing Finance Agency
